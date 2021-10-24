@@ -112,7 +112,7 @@ export default function Footer() {
       </ContainerSocial>
 
       <GoogleMaps>
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1648.611862412275!2d108.82485665380959!3d34.26834674334069!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x366378197ba58f25%3A0xe96a92373a099005!2sXinyuan%20Hotel!5e0!3m2!1spt-BR!2sbr!4v1634871039962!5m2!1spt-BR!2sbr" rel="preconnect" defer width="100%" height="100%" style={{ borderRadius: "20px" }} loading="lazy"></iframe>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1648.611862412275!2d108.82485665380959!3d34.26834674334069!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x366378197ba58f25%3A0xe96a92373a099005!2sXinyuan%20Hotel!5e0!3m2!1spt-BR!2sbr!4v1634871039962!5m2!1spt-BR!2sbr" title="Mapa que localiza o comercio" rel="preconnect" defer width="100%" height="100%" style={{ borderRadius: "20px" }} loading="lazy"></iframe>
       </GoogleMaps>
       </ContainerContent>
     </Container>

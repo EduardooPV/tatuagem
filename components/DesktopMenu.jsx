@@ -80,7 +80,7 @@ export default function DesktopMenu() {
         <ul>
           {
             menuItems.map((item) =>
-              <li key={item.id}><a href={item.position}>{item.item}</a></li>
+              <li key={item.id} role="menuitem" ><a href={item.position} rel="noreferrer">{item.item}</a></li>
             )
           }
         </ul>

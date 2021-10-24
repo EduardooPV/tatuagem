@@ -30,9 +30,9 @@ const Container = styled.div`
 export default function Social() {
   return (
     <Container>
-      <a title="Instagram" href="#"><Image src={Instagram} alt="IconeInstagram"/></a>
-      <a title="Facebook" href="#"><Image src={Facebook} alt="Icone Facebook"/></a>
-      <a title="Whatsapps" href="#"><Image src={Whatsapps} alt="Icone Whatsapps"/></a>
+      <a title="Instagram" href="#" target="_blank" rel="noreferrer"><Image src={Instagram} alt="IconeInstagram"/></a>
+      <a title="Facebook" href="#" target="_blank" rel="noreferrer"><Image src={Facebook} alt="Icone Facebook"/></a>
+      <a title="Whatsapps" href="#" target="_blank" rel="noreferrer"><Image src={Whatsapps} alt="Icone Whatsapps"/></a>
     </Container>
   )
 }

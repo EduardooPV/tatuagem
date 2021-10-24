@@ -80,7 +80,7 @@ export default function HamburgerMenu() {
               <ul>
                 {
                   menuItems.map((item) =>
-                    <li onClick={() => setOpen(false)} key={item.index}><a href={item.position}>{item.item}</a></li>
+                    <li onClick={() => setOpen(false)} key={item.index} role="menuitem"><a href={item.position} rel="noreferrer">{item.item}</a></li>
                   )
                 }
               </ul>

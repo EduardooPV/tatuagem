@@ -7,8 +7,8 @@ const Container = styled.div`
 
   display: grid;
   align-items: center;
-  grid-template-columns: 30% 1fr;
-  column-gap: 5px;
+  grid-template-columns: auto 1fr;
+  column-gap: 10px;
 
   background: rgba(66, 66, 66, 0.81);
 
@@ -26,9 +26,13 @@ const ContainerImage = styled.div`
 const ContainerText = styled.div`
   width: 100%;
   height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
 `
 
-const Title = styled.h5`
+const Title = styled.h4`
   margin-bottom: 10px;
 
   font-size: 1.2rem;

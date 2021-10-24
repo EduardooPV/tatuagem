@@ -17,6 +17,7 @@ export default function Home() {
   return (
     <Container>
       <Head>
+        <html lang="pt-BR"/>
         <title>Template Landing Page Tattoo</title>
         <meta name="description" content="Template para site de tatuagem" />
         <meta name="author" content="Luiz Eduardo Prado Veltroni" />

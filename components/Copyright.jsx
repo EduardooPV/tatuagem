@@ -12,7 +12,7 @@ const Container = styled.div`
   
 `
 
-const Title = styled.h6`
+const Title = styled.span`
   font-size: 12px;
   line-height: 14px;
   color: #c2c2c2;
