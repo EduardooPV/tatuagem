@@ -2,11 +2,22 @@
 
 Um possivel site de tatuagens, onde mostra uma breve descrição do tatuador, alguns diferenciais para influenciar o cliente a realizar os serviços com o tatuador, e algumas fotos de trabalhos, contem tambem um footer focado em "Entrar em contato" influenciando o cliente a entrar em contato para realizar um orçamento.
 
-Esse projeto foi um teste utilizando a ferramenta [Figma](https://figma.com) onde eu criei desde o **Wireframe** até a implementação que foi usado Next.js e Styled components.
+Ferramentas:
+- [Figma](https://www.figma.com)
+- [Next.js](https://www.nextjs.com)
+- [Styled components](https://styledcomponents.com)
 
-## Processos de criação
+## Processo de criação:
 
-Primeiro esboçei a ideia (Wireframe) no Figma, realizei duas variações.
+- [x] Wireframe - Figma
+- [x] Design System - Figma
+- [x] Design Final - Figma
+- [x] Implementação - Next.js / Styled components
+- [x] Deploy - Vercel
+
+## Processo de criação detalhadamente:
+
+Primeiro esboçei a ideia (Wireframe) no Figma, criando dois tipos de Landing page.
 
 ### Wireframe
 ![image](https://user-images.githubusercontent.com/69824782/138616246-bebc2607-6ead-4342-9920-0090c9e1c36f.png)
@@ -16,9 +27,9 @@ Após escolher a melhor variação, eu parti para o Design system, que foi simpl
 ### Design System
 ![image](https://user-images.githubusercontent.com/69824782/138616297-40b44160-7ad1-432d-b12c-6e5d870151b1.png)
 
-Agora que eu já tinha o esboço e a minha paleta de cores junto com a tipográfia, eu elaborei o conteudo, e adicionando algumas imagens que eu peguei do [Unsplash](https://unsplash.com).
-
 ### Projeto finalizado no Figma
+
+Agora que eu já tinha o esboço e a minha paleta de cores junto com a tipográfia, eu elaborei o conteudo, e adicionando algumas imagens que eu peguei do [Unsplash](https://unsplash.com).
 
 ### Desktop
 
@@ -28,7 +39,7 @@ Agora que eu já tinha o esboço e a minha paleta de cores junto com a tipográf
 
 ![image](https://user-images.githubusercontent.com/69824782/138616365-339d0d42-4566-47b9-8a90-72ee0ba4d1c8.png)
 
-Nessa parte eu foquei em organizar as pastas, focando na nomenclatura, usei e abusei do Auto Layout, porem não consegui adicionar Variantes / Animações
+Nessa parte eu dei uma importancia maior em organizar as pastas, focando na nomenclatura, usei e abusei do Auto Layout, porem não consegui adicionar Variantes / Animações
 
 ### Preview projeto implementado
 
@@ -37,4 +48,6 @@ Nessa parte eu foquei em organizar as pastas, focando na nomenclatura, usei e ab
 Realizei algumas mudanças que achei interessante na hora da implamentação.
 Aqui ele já está no ar hospeadado pela [Vercel](https://vercel.com)
 
-### Sinta-se avontade para contribuir com o projeto criando um Fork!!
+[Veja ele online](https://lp-tatto.vercel.app/)
+
+Sinta-se avontade para contribuir com o projeto criando um Fork!!
