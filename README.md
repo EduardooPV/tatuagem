@@ -2,7 +2,7 @@
 
 Um possivel site de tatuagens, onde mostra uma breve descrição do tatuador, alguns diferenciais para influenciar o cliente a realizar os serviços com o tatuador, e algumas fotos de trabalhos, contem tambem um footer focado em "Entrar em contato" influenciando o cliente a entrar em contato para realizar um orçamento.
 
-Esse projeto foi um teste utilizando a ferramenta [Figma](https://figma.com) onde eu criei desde o **Wireframe** até a implementação.
+Esse projeto foi um teste utilizando a ferramenta [Figma](https://figma.com) onde eu criei desde o **Wireframe** até a implementação que foi usado Next.js e Styled components.
 
 ## Processos de criação
 
