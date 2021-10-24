@@ -10,7 +10,7 @@ const Container = styled.section(() => `
   min-height: 100vh;
   width: 100%;
   position: relative;
-  background: url(${Background.src}) right center no-repeat;
+  background: url(${Background.src}) 75% center no-repeat;
   background-size: cover;
 `)
 

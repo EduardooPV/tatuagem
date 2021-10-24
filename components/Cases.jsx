@@ -8,7 +8,7 @@ const Container = styled.section(() => `
   width: 100%;
   min-height: 100vh;
   
-  background: url(${BackgroundLamour.src}) center center no-repeat;
+  background: url(${BackgroundLamour.src}) 60% center no-repeat;
   background-size: cover;
 
   margin: auto;
