@@ -28,7 +28,7 @@ export default function Gallery() {
       <Photos />
       <Button 
         content="Veja todas as fotos"
-        sessao="https://www.instagram.com/lopesgabriel.tattoo/"
+        sessao="#"
       />
     </Container>
   )
