@@ -8,7 +8,7 @@ const ButtonContainer = styled.a`
 
   background-color: #C30018;
   color: #FFF;
-  font-size: 20px;
+  font-size: 1.3rem;
   line-height: 23px;
 
   text-decoration: none;

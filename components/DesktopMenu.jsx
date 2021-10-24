@@ -8,6 +8,7 @@ const Nav = styled.nav`
     justify-content: flex-end;
     align-items: center;
     gap: 20px;
+    margin-right: 1.5rem;
     
     li {
       padding: 1rem;
@@ -70,12 +71,7 @@ export default function DesktopMenu() {
       id: 4,
       item: "Galeria",
       position: "#galeria"
-    },
-    {
-      id: 5,
-      item: "Contato",
-      position: "#footer"
-    },
+    }
   ]
 
   return (

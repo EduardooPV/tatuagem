@@ -2,6 +2,7 @@ import styled from "styled-components";
 import { useState, useEffect } from "react";
 import MobileMenu from "./MobileMenu";
 import DesktopMenu from "./DesktopMenu";
+import Button from "./Button";
 
 const Container = styled.header`
   width: 100%;
@@ -75,9 +76,16 @@ export default function Navbar() {
 
         {
           width < 769
-            ? <MobileMenu />
-            : <DesktopMenu />
+            ?
+            <MobileMenu />
+            :
+            <>
+              <DesktopMenu />
+              <Button content="Contato" sessao="#footer" />
+            </>
         }
+
+
       </ContainerContent>
     </Container>
   )

@@ -63,10 +63,6 @@ export default function HamburgerMenu() {
       item: "Galeria",
       position: "#galeria"
     },
-    {
-      item: "Contato",
-      position: "#footer"
-    },
   ]
   
   const [isOpen, setOpen] = useState(false)
