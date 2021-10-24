@@ -1,8 +1,10 @@
-# Nome do projeto.
+# Template landing page Tattoo
 
-## Descrição do projeto.
+Um possivel site de tatuagens, onde mostra uma breve descrição do tatuador, alguns diferenciais para influenciar o cliente a realizar os serviços com o tatuador, e algumas fotos de trabalhos, contem tambem um footer focado em "Entrar em contato" influenciando o cliente a entrar em contato para realizar um orçamento.
 
-### Uma possivel foto de preview do projeto.
+### Preview projeto
+
+![lp-tatto vercel app_ (5)](https://user-images.githubusercontent.com/69824782/138582313-8f696859-9f74-4bda-a760-508d00225452.png)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
