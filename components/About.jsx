@@ -59,11 +59,13 @@ const ContainerText = styled.div`
 const Title = styled.h3`
   margin-top: 2rem;
 
-  font-size: 3rem;
+  font-size: 2.2rem;
   line-height: 50px;
+  font-weight: bold;
   color: #FFF;
 
   @media(min-width: 769px) {
+    font-size: 3rem;
     margin: 0;
   }
 `
@@ -71,13 +73,14 @@ const Title = styled.h3`
 const Description = styled.p`
   margin: 2rem 0;
 
-  font-size: 1.2rem;
+  font-size: 1rem;
   line-height: 24px;
   text-align: center;
 
   color: #FFF;
 
   @media(min-width: 769px) {
+    font-size: 1.2rem;
     text-align: start;
   }
 `

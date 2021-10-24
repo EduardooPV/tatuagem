@@ -3,7 +3,7 @@ import Image from 'next/image'
 
 const Container = styled.div`
   width: 100%;
-  max-width: 300px;
+  max-width: 350px;
 
   margin: 1rem 0;
 `
@@ -29,13 +29,21 @@ const ContainerText = styled.div`
 
 const Title = styled.h5`
   font-weight: bold;
-  font-size: 24px;
+  font-size: 1.3rem;
   line-height: 28px;
+
+  @media (min-width: 768px) {
+    font-size: 1.5rem;
+  }
 `
 
 const Description = styled.p`
-  font-size: 16px;
+  font-size: 1rem;
   line-height: 19px;
+
+  @media (min-width: 768px) {
+    font-size: 1.2rem;
+  }
 `
 
 export default function Comunication({ title, description, icon, href }) {

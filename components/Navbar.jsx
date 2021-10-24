@@ -31,18 +31,29 @@ const ContainerContent = styled.div`
   max-width: 1000px;
   height: 100%;
 
+  padding-right: 5%;
   display: flex;
   align-items: center;
   justify-content: space-between;
 
   margin: auto;
+
+  @media(min-width: 768px) {
+    padding: 0;
+  }
 `
 
 const Logo = styled.div`
   height: 70%;
   width: 50px;
 
+  margin-left: 5%;
+
   background: white;
+
+  @media(min-width: 768px) {
+    margin: 0;
+  }
 `
 
 export default function Navbar() {

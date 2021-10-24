@@ -38,32 +38,43 @@ const ContainerContent = styled.div`
 const Title = styled.h1`
   margin-top: 4rem;
 
-  font-size: 3.5rem;
+  font-size: 4rem;
   line-height: 62px;
   font-weight: bold;
-
+  font-family: 'Dancing Script', serif;
   color: #FFF;
+
+  @media (min-width: 768px) {
+    font-size: 6rem;
+  }
 `
 
 const SubTitle = styled.h2`
-  font-size: 2.2rem;
+  margin: 1rem 0;
+  font-size: 2.5rem;
   line-height: 44px;
-
+  font-family: 'Dancing Script', serif;
   color: #FFF;
+
+  @media (min-width: 768px) {
+    font-size: 3rem;
+  }
 `
 
 const Description = styled.p`
   margin: 3rem 0 1rem 0;
 
-  font-size: 1.2rem;
+  font-size: 1rem;
   line-height: 24px;
   text-align: center;
 
   color: #FFF;
 
   @media (min-width:768px) {
-    text-align: start;
     max-width: 50%;
+
+    font-size: 1.3rem;
+    text-align: start;
   }
 `
 

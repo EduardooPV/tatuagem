@@ -31,14 +31,22 @@ const ContainerText = styled.div`
 const Title = styled.h5`
   margin-bottom: 10px;
 
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   font-weight: 600;
   color: #FFF;
+
+  @media (min-width: 768px) {
+    font-size: 1.5rem;
+  }
 `
 
 const Description = styled.p`
   font-size: 1rem;
   color: #FFF;
+
+  @media (min-width: 768px) {
+    font-size: 1.2rem;
+  }
 `
 
 export default function Card({ image, title, description }) {

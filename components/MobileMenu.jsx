@@ -16,27 +16,25 @@ const HamburgerOpen = styled.div`
 const Nav = styled.nav`
   width: 100%;
   height: 100vh;
-
   position: absolute;  
-  background-color: rgba(0, 0, 0, 0.877);
-
-  color: white;
-  font-size: 3rem;
   text-align: center;
-
+  background-color: rgba(0, 0, 0, 0.918);
   z-index: 6;
 
   ul {
-    margin: 4rem 0;
+    margin: 6rem 0;
 
     display: flex;
     flex-direction: column;
     justify-content: center;
-    gap: 50px;
+    gap: 40px;
 
     a {
       text-decoration: none;
       color: white;
+      font-weight: bold;
+      color: white;
+      font-size: 3rem;
     }
 
     a:active, a:hover {

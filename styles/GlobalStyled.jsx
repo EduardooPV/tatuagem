@@ -23,6 +23,7 @@ time, mark, audio, video {
 	vertical-align: baseline;
   scroll-behavior: smooth;
   box-sizing: border-box;
+  font-family: Nunito, sans-serif;
 }
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure, 
@@ -50,6 +51,18 @@ table {
 
 html {
   background: #C3C3C3;
+}
+
+@media(max-width: 1080px) {
+    html {
+        font-size: 93.75%;
+    }
+}
+/* ADICIONANDO RESPONSIVIDADE AOS TEXTOS JUNTO AOS ELEMENTOS PAIS*/
+@media(max-width: 720px) {
+    html {
+        font-size: 87.5%;
+    }
 }
 `
 
