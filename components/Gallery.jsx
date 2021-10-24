@@ -1,6 +1,6 @@
 import styled from "styled-components"; 
 
-import BackgroundPontos from '../public/components/bg-pontos.png'
+import BackgroundPontos from '../public/components/bg-pontos.webp'
 import Button from "./Button";
 import Photos from "./Photos";
 

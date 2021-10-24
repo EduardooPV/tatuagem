@@ -2,15 +2,15 @@ import styled from "styled-components";
 import Image from 'next/image'
 import { useEffect, useState } from "react";
 
-import Quadrado01Mobile from '../public/components/quadrado01-mobile.png'
-import Quadrado02Mobile from '../public/components/quadrado02-mobile.png'
-import Retangulo01Mobile from '../public/components/retangulo01-mobile.png'
-import Retangulo02Mobile from '../public/components/retangulo01-mobile.png'
+import Quadrado01Mobile from '../public/components/Gallery/quadrado01-mobile.webp'
+import Quadrado02Mobile from '../public/components/Gallery/quadrado02-mobile.webp'
+import Retangulo01Mobile from '../public/components/Gallery/retangulo01-mobile.webp'
+import Retangulo02Mobile from '../public/components/Gallery/retangulo01-mobile.webp'
 
-import Quadrado01desktop from '../public/components/quadrado01-desktop.png'
-import Quadrado02desktop from '../public/components/quadrado02-desktop.png'
-import Retangulo01desktop from '../public/components/retangulo01-desktop.png'
-import Retangulo02desktop from '../public/components/retangulo01-desktop.png'
+import Quadrado01desktop from '../public/components/Gallery/quadrado01-desktop.webp'
+import Quadrado02desktop from '../public/components/Gallery/quadrado02-desktop.webp'
+import Retangulo01desktop from '../public/components/Gallery/retangulo01-desktop.webp'
+import Retangulo02desktop from '../public/components/Gallery/retangulo01-desktop.webp'
 
 const Container = styled.div`
   width: 100%;

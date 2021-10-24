@@ -1,9 +1,9 @@
 import styled from "styled-components";
 import Image from 'next/image'
 
-import Instagram from '../public/components/instagram.png'
-import Facebook from '../public/components/facebook.png'
-import Whatsapps from '../public/components/whatsapps.png'
+import Instagram from '../public/components/Footer/instagram.png'
+import Facebook from '../public/components/Footer/facebook.png'
+import Whatsapps from '../public/components/Footer/whatsapps.png'
 
 const Container = styled.div`
   display: flex;

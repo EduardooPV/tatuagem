@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
-import BackgroundLamour from '../public/components/bg-cases.png'
-import IconCard from '../public/components/icon-card.png'
+import BackgroundLamour from '../public/components/Cases/bg-cases.webp'
+import IconCard from '../public/components/Cases/icon-card.png'
 import Card from "./Card";
 
 const Container = styled.section(() => `

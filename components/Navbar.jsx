@@ -50,7 +50,7 @@ const Logo = styled.div`
 
   margin-left: 5%;
 
-  background: white;
+  background: var(--red);
 
   @media(min-width: 768px) {
     margin: 0;

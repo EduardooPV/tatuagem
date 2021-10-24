@@ -3,9 +3,9 @@ import Social from './Social'
 
 import Comunication from "./Comunication";
 
-import IconMap from '../public/components/map.png'
-import IconEmail from '../public/components/email.png'
-import IconPhone from '../public/components/telefone.png'
+import IconMap from '../public/components/Footer/map.png'
+import IconEmail from '../public/components/Footer/email.png'
+import IconPhone from '../public/components/Footer/telefone.png'
 
 const Container = styled.footer`
   width: 100%;

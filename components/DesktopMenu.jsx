@@ -16,12 +16,12 @@ const Nav = styled.nav`
 
     a {
       text-decoration: none;
-      font-size: 1.5rem;
+      font-size: 1.3rem;
       color: #fff;
     }
 
     a:hover {
-      color: #C30018;
+      color: var(--red);
     }
 
     a:hover::after {

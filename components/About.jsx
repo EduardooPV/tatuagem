@@ -1,12 +1,12 @@
 import styled from "styled-components";
 import Image from 'next/image'
+import { useEffect, useState } from "react";
 
-import Allef from '../public/components/allef.png'
-import AllefDesktop from '../public/components/allef-desktop.png'
+import Allef from '../public/components/About/allef.webp'
+import AllefDesktop from '../public/components/About/allef-desktop.webp'
 import Button from "./Button";
 
-import BackgroundPontos from '../public/components/bg-pontos.png'
-import { useEffect, useState } from "react";
+import BackgroundPontos from '../public/components/bg-pontos.webp'
 
 const Container = styled.section(() => `
   min-height: 100vh;
@@ -39,7 +39,8 @@ const ContainerContent = styled.div`
 
   @media(min-width:  769px) {
     display: grid;
-    grid-template-columns: auto 1fr;
+    grid-template-columns: auto 40%;
+    align-items: flex-start;
     gap: 2rem;
   }
 `
@@ -86,7 +87,7 @@ const Description = styled.p`
 `
 
 const Destaque = styled.span` 
-  color: #C30018;
+  color: var(--red);
 `
 
 export default function About() {

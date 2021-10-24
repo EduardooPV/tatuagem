@@ -6,7 +6,7 @@ const ButtonContainer = styled.a`
   border: none;
   border-radius: 5px;
 
-  background-color: #C30018;
+  background-color: var(--red);
   color: #FFF;
   font-size: 1.3rem;
   line-height: 23px;
