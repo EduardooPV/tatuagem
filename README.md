@@ -1,6 +1,6 @@
 # <h1 align="center">🚀 Template landing page Tattoo 🚀<h1>
   
-Um possivel site de tatuagens, onde mostra uma breve descrição do tatuador, alguns diferenciais para influenciar o cliente a realizar os serviços com o tatuador, e algumas fotos de trabalhos, contem tambem um footer focado em "Entrar em contato" influenciando o cliente a entrar em contato para realizar um orçamento.
+Um possível site de tatuagens, onde mostra uma breve descrição do tatuador, alguns diferenciais para influenciar o cliente a realizar os serviços com o tatuador, e algumas fotos de trabalhos, contem também um footer focado em "Entrar em contato" influenciando o cliente a entrar em contato para realizar um orçamento.
 
 Ferramentas:
 - [Figma](https://www.figma.com)
@@ -22,14 +22,14 @@ Primeiro esboçei a ideia (Wireframe) no Figma, criando dois tipos de Landing pa
 ### Wireframe
 ![image](https://user-images.githubusercontent.com/69824782/138616246-bebc2607-6ead-4342-9920-0090c9e1c36f.png)
 
-Após escolher a melhor variação, eu parti para o Design system, que foi simples mas consegui entender a importancia dele na próxima etapa.
+Após escolher a melhor variação, eu parti para o Design system, que foi simples mas consegui entender a importância dele na próxima etapa.
 
 ### Design System
 ![image](https://user-images.githubusercontent.com/69824782/138616297-40b44160-7ad1-432d-b12c-6e5d870151b1.png)
 
 ### Projeto finalizado no Figma
 
-Agora que eu já tinha o esboço e a minha paleta de cores junto com a tipográfia, eu elaborei o conteudo, e adicionando algumas imagens que eu peguei do [Unsplash](https://unsplash.com).
+Agora que eu já tinha o esboço e a minha paleta de cores junto com a tipografia, eu elaborei o conteúdo, e adicionando algumas imagens que eu peguei do [Unsplash](https://unsplash.com).
 
 ### Desktop
 
@@ -39,15 +39,15 @@ Agora que eu já tinha o esboço e a minha paleta de cores junto com a tipográf
 
 ![image](https://user-images.githubusercontent.com/69824782/138616365-339d0d42-4566-47b9-8a90-72ee0ba4d1c8.png)
 
-Nessa parte eu dei uma importancia maior em organizar as pastas, focando na nomenclatura, usei e abusei do Auto Layout, porem não consegui adicionar Variantes / Animações
+Nessa parte eu dei uma importância maior em organizar as pastas, focando na nomenclatura, usei e abusei do Auto Layout, porem não consegui adicionar Variantes / Animações
 
 ### Preview projeto implementado
 
 ![lp-tatto vercel app_ (5)](https://user-images.githubusercontent.com/69824782/138582313-8f696859-9f74-4bda-a760-508d00225452.png)
 
-Realizei algumas mudanças que achei interessante na hora da implamentação.
-Aqui ele já está no ar hospeadado pela [Vercel](https://vercel.com)
+Realizei algumas mudanças que achei interessante na hora da implementação.
+Aqui ele já está no ar hospedado pela [Vercel](https://vercel.com)
 
 [Veja ele online](https://lp-tatto.vercel.app/)
 
-Sinta-se avontade para contribuir com o projeto criando um Fork!!
+Sinta-se à vontade para contribuir com o projeto criando um Fork!!
